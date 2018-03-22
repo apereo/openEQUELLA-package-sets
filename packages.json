@@ -360,6 +360,17 @@
     "repo": "https://github.com/garyb/purescript-debug.git",
     "version": "v3.0.0"
   },
+  "dispatcher-react": {
+    "dependencies": [
+      "aff",
+      "contravariant",
+      "eff",
+      "react",
+      "type-equality"
+    ],
+    "repo": "git://github.com/doolse/purescript-dispatcher-react.git",
+    "version": "v3.1.0"
+  },
   "distributions": {
     "dependencies": [
       "lists"
@@ -572,7 +583,7 @@
       "maybe"
     ],
     "repo": "https://github.com/purescript/purescript-foldable-traversable.git",
-    "version": "v3.6.1"
+    "version": "v3.7.1"
   },
   "folds": {
     "dependencies": [
@@ -1710,7 +1721,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-react.git",
-    "version": "v4.4.0"
+    "version": "v5.1.0"
   },
   "react-dom": {
     "dependencies": [
@@ -1720,6 +1731,15 @@
     ],
     "repo": "https://github.com/purescript-contrib/purescript-react-dom.git",
     "version": "v4.1.0"
+  },
+  "react-mui": {
+    "dependencies": [
+      "react",
+      "react-dom",
+      "typelevel-prelude"
+    ],
+    "repo": "https://github.com/doolse/purescript-react-mui.git",
+    "version": "v1.0.0"
   },
   "reactnative": {
     "dependencies": [
@@ -1789,7 +1809,7 @@
       "integers"
     ],
     "repo": "https://github.com/slamdata/purescript-routing",
-    "version": "v6.1.2"
+    "version": "v7.0.0"
   },
   "run": {
     "dependencies": [
