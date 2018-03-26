@@ -1809,7 +1809,7 @@
       "integers"
     ],
     "repo": "https://github.com/slamdata/purescript-routing",
-    "version": "v7.0.0"
+    "version": "v7.1.0"
   },
   "run": {
     "dependencies": [
