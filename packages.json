@@ -355,6 +355,15 @@
     "repo": "https://github.com/sharkdp/purescript-decimals.git",
     "version": "v4.0.0"
   },
+  "dispatcher-react": {
+    "dependencies": [
+      "aff",
+      "react",
+      "refs"
+    ],
+    "repo": "https://github.com/doolse/purescript-dispatcher-react.git",
+    "version": "v4.0.0"
+  },
   "distributive": {
     "dependencies": [
       "identity",
@@ -1580,6 +1589,15 @@
     "repo": "https://github.com/purescript-contrib/purescript-react-dom.git",
     "version": "v6.0.0"
   },
+  "react-mui": {
+    "dependencies": [
+      "react",
+      "react-dom",
+      "tscompat"
+    ],
+    "repo": "https://github.com/doolse/purescript-react-mui.git",
+    "version": "v3.1.0"
+  },
   "read": {
     "dependencies": [
       "maybe",
@@ -1934,6 +1952,13 @@
     ],
     "repo": "https://github.com/purescript/purescript-transformers.git",
     "version": "v4.1.0"
+  },
+  "tscompat": {
+    "dependencies": [
+      "react"
+    ],
+    "repo": "https://github.com/doolse/purescript-tscompat.git",
+    "version": "v1.0.1"
   },
   "tuples": {
     "dependencies": [
