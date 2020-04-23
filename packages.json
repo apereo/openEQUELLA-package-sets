@@ -1111,7 +1111,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript/purescript-record.git",
-    "version": "v1.0.0"
+    "version": "v2.0.2"
   },
   "refs": {
     "dependencies": [
